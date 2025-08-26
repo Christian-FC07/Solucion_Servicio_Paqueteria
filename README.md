@@ -32,7 +32,7 @@ To run this project, you need to have the mentioned technologies installed.
 
 Clone the repository:
 
-git clone https://github.com/Christian-FC07/Package-service.git
+git clone https://github.com/Christian-FC07/Solucion_Servicio_Paqueteria.git
 
 # Configure the database:
 
